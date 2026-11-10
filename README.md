@@ -69,7 +69,7 @@ Prática de ETL no Power Query, modelagem, medidas em DAX e dashboard com indica
 ## 📫 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-oliveira-dos-santos-bb1a76197">
+  <a href="https://www.linkedin.com/in/david-oliveira-bb1a76197?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-David%20Oliveira-1B4FA8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:david.do296@outlook.com">
