@@ -45,10 +45,9 @@ Hoje uso essa vivência em operações como base para construir minha trajetóri
 Sistema de criptografia que une a **Cifra de César** a deslocamentos dinâmicos baseados em sequências matemáticas (**PA, PG, números primos, Fibonacci** e incremento em progressão).
 `C` · `Algoritmos` · `Git`
 
-### 🌐 Página de Serviços "Gestão Operacional" (Grupo Êxito)
+### 🌐 Página de Serviços "Gestão Operacional" (https://github.com/aleezin1/grupo-exito-condominios)
 Página de um site desenvolvido em equipe, com HTML semântico, CSS, Flexbox e Google Fonts, incluindo cards, tabelas e botões com efeito hover.
 `HTML` · `CSS` · `Flexbox`
-*Repositório em breve.*
 
 ### 📊 Dashboard em Power BI
 Prática de ETL no Power Query, modelagem, medidas em DAX e dashboard com indicadores de faturamento, lucro, margem e ticket médio.
